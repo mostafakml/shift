@@ -1,0 +1,21 @@
+{
+    "name": "mohammad-mahdy/yii2-jdate",
+    "description": "Jalali date & time.",
+    "type": "library",
+    "keywords": ["yii2", "yii", "yiiframeowrk", "persian date","extension","jDate","Jalali Data Time"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Mohammad Mahdi Gholamian",
+            "email": "mm.gholamian@yahoo.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "jDate\\": ""
+        }
+    }
+}
